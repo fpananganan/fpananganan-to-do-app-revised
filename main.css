@@ -1,0 +1,10 @@
+body {
+  height: 60vh;
+  justify-content: left;
+  text-align: left;
+}
+
+h1 {
+  color: blue;
+  font-weight: lighter;
+}
